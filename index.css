@@ -1,0 +1,36 @@
+body {
+  background-color: rgba(245, 181, 255, 0.8);
+}
+
+h1 {
+  color: blue;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: normal;
+  background-color: hsla(255, 68%, 68%, 0.7);
+}
+h2 {
+  color: rgb(255, 10, 10);
+  font-family: fantasy;
+}
+#Para-1 {
+  color: rgb(253, 1, 211);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h3 {
+  font-weight: bold;
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#Para-2 {
+  color: rgb(243, 103, 103);
+  font-style: italic;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+#div-3 {
+  background-color: rgb(101, 255, 204);
+  font-size: 30px;
+}
